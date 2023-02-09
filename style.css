@@ -15,7 +15,7 @@ body{
 }
 
 main{
-    height: calc(100% - 90px);
+    height: calc(100vh - 90px);
     overflow: hidden;
     background-color: aqua;
 }
@@ -31,6 +31,7 @@ footer{
     flex-direction: column;
     width: 15%;
     gap: 20px;
+    height: calc(100vh - 90px);
     justify-content: space-between;
     padding-left: 25px;
     color: white;
