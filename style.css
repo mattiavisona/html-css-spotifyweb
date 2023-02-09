@@ -80,5 +80,10 @@ footer{
 
 
 .footer-leftbar{
-    padding-bottom: 80px;
+    padding-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
 }
+
+
