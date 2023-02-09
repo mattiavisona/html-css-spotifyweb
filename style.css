@@ -52,3 +52,14 @@ body{
     gap: 10px;
     list-style-type: none;
 }
+
+.add{
+    font-size: 30px;
+}
+
+.new-playlist{
+  display: flex;
+  gap: 18px;
+  align-items: center;
+}
+
